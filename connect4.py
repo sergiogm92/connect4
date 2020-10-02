@@ -1,12 +1,3 @@
-# create welcome
-# create board
-# select player
-# print board
-# select position
-# check if cell is not empty and column is not full
-# change player
-# find winner
-
 def main():
     board = [
         [None, None, None, None, None, None, None],
